@@ -1,1 +1,1 @@
-Hello , I am here
+In this repo, we are providing a comprehensive collection of Verilog code examples tailored to current market needs.
